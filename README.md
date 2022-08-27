@@ -32,7 +32,7 @@ By default the program does a polar tranformation of the intensities. But note t
 
 * `--size` : by default the dots in the plots are 5pt in size. You can change this using `--size`
 * `--colours` :  to change the default colours you can provide a comma-separated (no spaces) list of colours. For example `--colours pink,cyan,black`
-* `--output` :  this is compulsory. Use `--output show` for interactive use or specify the name of the output file with graphics extension (e.g. `--show output.pdf`)
+* `--output` :  this is compulsory. Use `--output show` for interactive use or specify the name of the output file with graphics extension (e.g. `--output output.pdf`)
 
 
 ### Plotting multiple intensity files

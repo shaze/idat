@@ -76,3 +76,11 @@ The code produces millions of output files, one for each SNP on the chip. Puttin
 
 You will need a manifest file to navigate this.
 
+### Sample run
+
+```
+python3 idat2cluster.py -n 8  NONE  /dataX/data/batch01  H3A_B.csv -o batch01
+```
+
+Wits users -- H3A_B.csv is the csv version of the H3A Array version 2 -- can be found in /.../AWIGenGWAS/aux
+
